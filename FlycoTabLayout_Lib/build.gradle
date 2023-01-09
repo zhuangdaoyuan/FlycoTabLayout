@@ -43,7 +43,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.github'//你要发布的库的组ID  建议使用包名
                 artifactId = 'FlycoTabLayout'//你要发布的库的名字
-                version = '3.0.5'//库的版本 可以在外部定义一个变量，保持整个配置文件中的版本一致性
+                version = '3.0.6'//库的版本 可以在外部定义一个变量，保持整个配置文件中的版本一致性
             }
         }
     }
